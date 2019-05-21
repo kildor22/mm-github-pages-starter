@@ -1,6 +1,6 @@
 main:
-  - title: "posts"
-    url: /posts/
+  - title: "musings"
+    url: /musings/
   - title: "...what?"
     url: /about/
   - title: "poems"
