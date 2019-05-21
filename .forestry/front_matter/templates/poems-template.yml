@@ -26,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: Content
+pages:
+- _poems/what-is-sunshine-without-rain.md
