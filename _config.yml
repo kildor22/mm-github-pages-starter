@@ -58,6 +58,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-archives
 
 author:
   name   : "First Lastname"
@@ -119,3 +121,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+collections_dir: collections
+
+collections:
+     poems:
+       output: true
+       permalink: /poems/:title
+    
+     stories:
+       output: true
+       permalink: /stories/:title
