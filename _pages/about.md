@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Okay, so what the heck is "The Vault"?"
+title: "Okay, so what the heck is this?"
 author_profile: false
 ---
 
