@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: lorem ipsum
+pages:
+- _poems/fuck.md
