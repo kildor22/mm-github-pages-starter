@@ -1,4 +1,18 @@
 ---
 label: Poem 1
 hide_body: false
-fields: []
+fields:
+- name: this_is_my_title
+  type: text
+  config:
+    required: false
+  label: This is My Title
+- name: lorem_ipsum
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: lorem ipsum
