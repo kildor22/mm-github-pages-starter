@@ -20,6 +20,8 @@ sections:
   label: Poems
   create: all
   match: "**/*"
+  templates:
+  - poems-template
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
