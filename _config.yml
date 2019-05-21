@@ -108,6 +108,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+      
+  - scope:
+      type: categories
+      author_profile: false
+  - scope:
+      type: default
+      auhtor_profile: false
 
 category_archive:
   type: liquid
