@@ -109,10 +109,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
       
   - scope:
       type: categories
       author_profile: false
+      breadcrumbs: true
 
 category_archive:
   type: liquid
