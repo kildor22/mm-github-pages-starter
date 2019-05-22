@@ -9,7 +9,6 @@ date-written: 17-22-01
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 <p>
 For fuck's sake <br>

@@ -98,7 +98,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
       breadcrumbs: true
@@ -110,11 +110,28 @@ defaults:
       layout: single
       author_profile: false
       breadcrumbs: true
-      
+  # _categories
   - scope:
       type: categories
       author_profile: false
       breadcrumbs: true
+  # _poems
+  - scope:
+      path: "/collections/_poems"
+      type: poems
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _stories
+  - scope:
+      path: "/collections/_stories"
+      type: stories
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 
 category_archive:
   type: liquid
