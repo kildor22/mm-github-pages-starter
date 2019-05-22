@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "There is No Such Muse"
+date: 2019-08-16
 collection: jekyll poems
 excerpt: suck dick
 ---
