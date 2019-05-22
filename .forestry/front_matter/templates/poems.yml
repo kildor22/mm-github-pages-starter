@@ -1,0 +1,22 @@
+---
+label: Poems
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: collection
+  label: collection
+- type: text
+  name: excerpt
+  label: excerpt
+- type: boolean
+  name: share
+  label: share
+- type: text
+  name: date-written
+  label: date-written
