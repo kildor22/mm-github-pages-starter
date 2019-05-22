@@ -101,6 +101,7 @@ defaults:
       comments: true
       share: true
       related: true
+      breadcrumbs: true
   # _pages
   - scope:
       path: "_pages"
@@ -131,4 +132,4 @@ collections:
        output: true
        permalink: /stories/:title
        
- breadcrumbs: true
+
