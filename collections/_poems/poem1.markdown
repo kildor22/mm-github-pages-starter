@@ -5,7 +5,7 @@ collection: jekyll poems
 excerpt: suck dick
 share: true
 ---
-<title style="text-align: center;">{{ page.title }}</title>
+{{ page.title }}{: .text-center}
 <h5> written on: 17-7-2001 </h5>
 <p style="text-align: center;">
 For fuck's sake <br>
