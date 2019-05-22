@@ -4,6 +4,7 @@ title:  "There is No Such Muse"
 collection: jekyll poems
 excerpt: suck dick
 share: true
+date-written: 17-22-01
 ---
 
 
@@ -16,4 +17,4 @@ whoever said Jekyll was easy <br>
 is a wolf Hyde-ing in sheep's clothing
 </p>
 
-<em> 17-22-01 </em>
+<em> {{ page.date-written }} </em>
