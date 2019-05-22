@@ -107,9 +107,6 @@ defaults:
       type: pages
     values:
       layout: single
-  # _categories
-  - scope:
-      type: categories
   # _poems
   - scope:
       path: "collections/_poems"
