@@ -4,7 +4,7 @@ title:  "There is No Such Muse"
 collection: jekyll poems
 excerpt: suck dick
 ---
-
+<title style="text-align: center;">{{ page.title }}</title>
 <p style="text-align: center;">
 For fuck's sake <br>
 who said Jekyll was easy <br>
