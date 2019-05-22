@@ -114,14 +114,14 @@ defaults:
       author_profile: false
   # _poems
   - scope:
-      path: "/collections/_poems"
+      path: "collections/_poems"
     values:
       layout: single
       author_profile: false
       share: true
   # _stories
   - scope:
-      path: "/collections/_stories"
+      path: "collections/_stories"
     values:
       layout: single
       author_profile: false
