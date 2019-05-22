@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: collections/_posts
   label: Posts
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: collections/_stories
