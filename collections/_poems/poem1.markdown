@@ -3,6 +3,7 @@ layout: single
 title:  "There is No Such Muse"
 collection: jekyll poems
 excerpt: suck dick
+share: true
 ---
 <title style="text-align: center;">{{ page.title }}</title>
 <h5> written on: 17-7-2001 </h5>
