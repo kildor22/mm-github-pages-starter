@@ -115,7 +115,6 @@ defaults:
   # _poems
   - scope:
       path: "/collections/_poems"
-      type: poems
     values:
       layout: single
       author_profile: false
@@ -123,7 +122,6 @@ defaults:
   # _stories
   - scope:
       path: "/collections/_stories"
-      type: stories
     values:
       layout: single
       author_profile: false
