@@ -1,6 +1,6 @@
 main:
   - title: "home"
-    url: ja-lustre.epizy.com
+    url: http://ja-lustre.epizy.com
   - title: "musings"
     url: /musings/
   - title: "...what?"
