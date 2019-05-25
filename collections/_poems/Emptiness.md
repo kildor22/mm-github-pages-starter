@@ -15,7 +15,7 @@ I was once a ruler of my own castle.
 </p>
 
 <p>
-To me, the sound of music would be the clacking of dancing shoes on its cobblestone floors, and the raucous cheering of my townsmen would provide the melody. I would sit on my throne with a smile plastered on my face –one I thought permanent. I would not partake with the merriment as I would merely observe but that alone has given me great gratification all this time. The crown on my head would slip and a maiden would come to re-adjust it on my curls, making sure to get the tilt right. Knaves would offer wine and a whole rack of lamb as a toast to the king and the hallow halls of his fort. In front of me they would dance, and behind them I would indulge in their joy. This was all true until the light slithered from my grasp and the castle was engulfed in the darkness, with me in the throne still.
+To me, the sound of music would be the clacking of dancing shoes on cobblestone floors, and the raucous cheering of my townsmen would provide the melody. I would sit on my throne with a smile plastered on my face –one I thought permanent. I would not partake with the merriment as I would merely observe but that alone has given me great gratification all this time. The crown on my head would slip and a maiden would come to re-adjust it on my curls, making sure to get the tilt right. Knaves would offer wine and a whole rack of lamb as a toast to the king and the hallow halls of his fort. In front of me they would dance, and behind them I would indulge in their joy. This was all true until the light slithered from my grasp and the castle was engulfed in the darkness, with me in the throne still.
  </p>
   
  <p>
