@@ -41,7 +41,7 @@ Thwip!
  </p>
 
 <p>
-Ooh, that's strike one. The clerk had a grin on his face, pencil-stache twitching.
+<em>Ooh, that's strike one.</em> The clerk had a grin on his face, pencil-stache twitching.
 I'll show him.
  </p>
 
@@ -54,7 +54,7 @@ Fhwoop!
  </p>
 
 <p>
-Yikes, three out of seven bottles, pal. Come on, impress the lass!
+<em>Yikes, three out of seven bottles, pal. Come on, impress the lass!</em>
  </p>
 
 <p>
@@ -74,7 +74,7 @@ At this point, I was gritting my teeth, refraining from baring them at the penci
  </p>
 
 <p>
-  Ooh, 6 out of 7 bottles, mister. Don't fret, because you've won the medium prize.
+ <em>  Ooh, 6 out of 7 bottles, mister. Don't fret, because you've won the medium prize. </em>
  </p>
 
 <p>
