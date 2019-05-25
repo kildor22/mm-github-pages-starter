@@ -19,7 +19,7 @@ I have observed how her eyes look-- her steely gaze whenever she is fixated on a
 </p>
 
 <p>
-I have made a mental note to not look at them often; There is a risk of me falling deep and having trouble swimming to the surface.
+I have made a mental note to not look at them often; there is a risk of me falling deep and having trouble swimming to the surface.
 </p>
 
 <p>

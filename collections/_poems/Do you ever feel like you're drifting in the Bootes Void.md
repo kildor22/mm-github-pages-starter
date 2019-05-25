@@ -13,7 +13,7 @@ Do you ever feel like you're drifting in the Bootes Void?
 </p>
 
 <p>
-What is the Bootes Void, you asked? Well, stranger, good thing you did. The Bootes Void is only the largest, emptiest expanse in the known-universe. Millions and millions and millions of miles stretching nowhere. Nothingness. A void of loneliness-- a place so empty you can hear your own thoughts speak to you. A place so empty it may just co.ntend with you for first place.
+What is the Bootes Void, you asked? Well, stranger, good thing you did. The Bootes Void is only the largest, emptiest expanse in the known-universe. Millions and millions and millions of miles stretching nowhere. Nothingness. A void of loneliness-- a place so empty you can hear your own thoughts speak to you. A place so empty it may just contend with you for first place.
 </p>
 
 
