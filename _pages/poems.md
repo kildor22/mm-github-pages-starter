@@ -1,6 +1,6 @@
 ---
 title: Poems
-layout: collection
+layout: home
 permalink: /poems/
 collection: poems
 ---
