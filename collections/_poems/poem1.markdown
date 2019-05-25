@@ -11,7 +11,7 @@ date-written: 18.5.19
 &nbsp;
 
 <p>
-Last night, I dreamt of speaking to the Writer's Muse -- the fabled minstrel of all poets. There 
+Last night, I dreamt that I spoke to the Writer's Muse -- the fabled minstrel of all poets. There 
 she stood in all her beauty, behind the cascading sheets of her waterfall that gleamed silver in the
 moonlight. For a moment, I stood still in the middle of the meadow, awe-struck by the foliage that encorached me;
 it was dense enough to nearly swallow my feet.
