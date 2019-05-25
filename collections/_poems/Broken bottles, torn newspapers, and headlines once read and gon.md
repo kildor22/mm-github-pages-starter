@@ -10,7 +10,7 @@ date-written: 2018
 &nbsp;
 
 <p>
-Broken bottles, torn newspapers, and headlines once read and gone lay haphazardly before me. The television is on, static buzzing enveloping the room in black and gray, and gray and black, to complement the room's walls with its cackling.
+Broken bottles, torn newspapers, and headlines once read and gone lay haphazardly before me. The television is on and static buzzing envelops the room in black and gray, and gray and black, complementing the walls with its cackling.
 </p>
 
 <p>
@@ -18,11 +18,11 @@ The faint scent of alcohol is reminiscent of his presence. He no longer lives, b
 </p>
 
 <p>
-Your house is filled with people, who sit on cherished chairs and sleep on groomed beds--whom dine at the table together, feast on the same table with equal portions of food, chomping down with grins as big as yours.
+Your house is filled with people, whom sit on cherished chairs and sleep on groomed beds--whom dine at the table together, feast on the same table with equal portions of food, chomping down with grins as big as yours.
 </p>
 
 <p>
-My home is filled with people, that feels no fuller than a barren one. My people sit on rusted chairs, chewed by the weight of the burdens they carry, and sleep on cobblestone beds that carry the same. We dine at the table -- at most four, at a time -- with rations for every hungry mouth, lest one gets more than the other and the hounds are set free. On my table, we do not grin. On my table, we chastise and mock. We play with feelings and feed on the words, that seem to hurt more bones and break more sticks, and relieve our parched selves with the tears of one another. Ravenously, we dine on emotions. On your table, you feel full. Content. On mine, we remain hungry, no matter how fine the food is.
+My home is filled with people, that feels no fuller than a barren one. My people sit on rusted chairs, chewed by the weight of the burdens they carry, and sleep on cobblestone beds that carry the same. We dine at the table -- at most four, at a time -- with rations for every hungry mouth, lest one gets more than the other and the hounds are set free. On my table, we do not grin. On my table, we chastise and mock. We play with feelings and feed on words that seem to hurt more bones and break more sticks, and relieve our parched selves with the tears of one another. Ravenously, we dine on emotions. On your table, you feel full. Content. On mine, we remain hungry, no matter how fine the food is.
 </p>
 
 <p>
@@ -64,7 +64,7 @@ I want to get out.
 </p>
 
 <p>
-I see broken bottles, torn newspapers and the static of the television enveloping the room. I walk up to the eden where I take refuge.\\
+I see broken bottles, torn newspapers and the static of the television enveloping the room. I walk up to the eden where I take refuge.
 </p>
 
 <p>
@@ -76,7 +76,7 @@ But then I see him, walking downstairs to look for the remote.
 </p>
 
 <p>
-He changes the channel. He takes out the bottles. He sweeps the newspaper and throws them out. He buys new ones. He asks a question and talks.\\
+He changes the channel. He takes out the bottles. He sweeps the newspaper and throws them out. He buys new ones. He asks a question and talks.
 </p>
 
 <p>
