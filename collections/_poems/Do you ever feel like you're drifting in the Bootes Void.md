@@ -34,7 +34,7 @@ With your hands, you clasp at the darkness, eyes closed, heart hopeful; thinking
  </p>
  
  <p>
- The thought of them, out there, existing with you fills you with an emanating warmth that enkindles the light in the dark... for a second.
+ The thought of them existing out there with you fills you with a warmth that kindles the light in the dark... for a second.
 </p>
 
 <em> {{page.date-written}} </em>
