@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title:  "A Penguin that Can't Fly" 
