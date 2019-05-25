@@ -1,3 +1,14 @@
+---
+layout: single
+title:  "Clocking Out" 
+collection: jekyll poems
+share: true
+date-written: 2018
+---
+
+&nbsp;
+&nbsp;
+
 How can you say that we're out of time,
 when the clock has barely struck midnight?
 
@@ -10,3 +21,4 @@ you can never etch it in stone,
 for love is an uncountable noun,
 and mine is perpetually infinite.
 
+<em> {{page.date-written}} </em>
