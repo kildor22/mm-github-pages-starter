@@ -30,7 +30,7 @@ With your hands, you clasp at the darkness, eyes closed, heart hopeful; thinking
 </p>
 
 <p>
- A dying star, a fleeting comet or humanity's last capsule that plays a song just for you to hear. 
+ A dying star, a fleeting comet, or humanity's last capsule that's playing a song just for you to hear. 
  </p>
  
  <p>
