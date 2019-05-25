@@ -12,7 +12,7 @@ date-written: 2018
 How can you say that we're out of time, <br>
 when the clock has barely struck midnight? <br>
 
-Let it tick and tock, love,
+Let it tick and tock, love, <br>
 let its gears and clockwork wind, <br>
 for our love is beyond the numbers that hang on the wall,
 
