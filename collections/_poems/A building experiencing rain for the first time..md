@@ -10,7 +10,7 @@ date-written: 2017
 &nbsp;
 
 <p>
-The pattering of rain is endless on its battered, concrete walls. It heaves a groan that reverbrates through its halls; wondering when the clouds would cease their unrelenting downpour on its weathered facade.
+The pattering of rain is endless on its battered concrete walls. It heaves a groan that reverbrates through its halls; wondering when the clouds would cease their unrelenting downpour on its weathered facade.
 In the end, it thought: none of it really mattered.
 </p>
 
