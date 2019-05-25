@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "There is No Such Muse" 
+title:  "A Building Experiencing Rain For The First Time" 
 collection: jekyll poems
 share: true
 date-written: 2017
@@ -37,4 +37,4 @@ and yet it has no one to blame.
 </p>
 
 
-{{page.date-written}}
+<em> {{page.date-written}} </em>
