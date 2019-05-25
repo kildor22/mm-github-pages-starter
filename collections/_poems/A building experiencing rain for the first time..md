@@ -25,11 +25,7 @@ What is the use of a beautiful coat of paint on a building unkept and unwanted? 
 
 <p>
 its walls could be weathered, old and gray, for which no one has recoated and maintained--
-the building could keep on standing and yearning in the rain,
-</p>
-
-<p>
-perpetually rooted in one place waiting, watching for a return that may never be-
+the building could keep on standing and yearning in the rain, perpetually rooted in one place waiting, watching for a return that may never be--
 </p>
 
 <p>
