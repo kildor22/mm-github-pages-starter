@@ -93,7 +93,3 @@ And so, I would spend the rest of my days at that jeepney stop, no longer for th
 
 
 <em> {{page.date-written}} </em>
-
-
-  - I became a brother
-  - "She wasnt the reason I left my brothers; she's the reason I never came back."
