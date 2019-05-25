@@ -100,4 +100,4 @@ Maybe then I wouldn't have to kick winter out and trap myself in.
 But I'm just a penguin, what do I know?
 </p>
 
-{{page.date-written}}
+<em>{{page.date-written}}</em>
