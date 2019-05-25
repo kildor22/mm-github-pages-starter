@@ -18,7 +18,7 @@ date-written: 2019
 </p>
 
 <p>
-  This is where people are mistaken, you see, for their words cut deeper than any axe that can fall a tree. But once they pierce flesh, their blades would barely make a thud on the bones that keep me rooted. They swing and slice at me, blows striking my bark and to the jugular, yet they can never fall me, for my feet dig deeper beneath the Earth-- deeper than the wooden veins that crawl through the soil. Seeking my source of power would mean to pound and claw at my chest, ripping through my malleable armor of muscles sinew by sinew, until you reach the cages of my heart. There, my very resolve is seeded.
+  This is where people are mistaken, you see, for their words cut deeper than any axe that can fall a tree. But once they pierce flesh, their blades would barely make a thud on the bones that keep me rooted. They swing and slice at me, blows striking my bark and the jugular, yet they can never fall me, for my feet dig deeper beneath the Earth-- deeper than the wooden veins that crawl through the soil. Seeking my source of power would mean to pound and claw at my chest, ripping through my malleable armor of muscles sinew by sinew, until you reach the cage that guards my heart. There, my very resolve is seeded.
 </p>
 
 <p>
