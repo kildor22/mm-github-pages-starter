@@ -1,4 +1,4 @@
- ---
+---
 layout: single
 title:  "For Every Bend" 
 collection: jekyll poems
