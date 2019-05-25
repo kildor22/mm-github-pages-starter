@@ -20,7 +20,7 @@ date-written: 2018
  
  
 <p>
-  Come one, come all! Try your luck at the Bottle Drop! Make all seven bottles tumble and get a large prize!
+ <em> Come one, come all! Try your luck at the Bottle Drop! Make all seven bottles tumble and get a large prize! </em>
  </p>
 
 <p>
@@ -88,7 +88,7 @@ At this point, I was gritting my teeth, refraining from baring them at the penci
 
 
 <p>
-  We took the bridge on the way home. Fewer cars drive through at night, so it was safer.
+  We took the bridge on the way home. Fewer cars drove at night, so it was safer.
  </p>
 
 <p>
