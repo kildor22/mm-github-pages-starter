@@ -28,11 +28,11 @@ date-written: 30.10.18
  </p>
 
  <p>
-Nothing is there,
+Nothing is there, <br>
 
-Nothing is there,
+Nothing is there, <br>
 
-Nothing is there,
+Nothing is there, <br>
  </p>
   
  <p>
@@ -48,11 +48,11 @@ Nothing is there,
  </p>
 
  <p>
-Nothing is there,
+Nothing is there, <br>
 
-Nothing is there,
+Nothing is there, <br>
 
-Nothing is there.
+Nothing is there. <br>
  </p>
  
  
@@ -70,11 +70,11 @@ Nothing is there.
  </p>
  
   <p>
-  Nothing is there,
+  Nothing is there, <br>
 
-  Nothing is there,
+  Nothing is there, <br>
 
-  Nothing is there,
+  Nothing is there, <br>
  </p>
  
   <p>
@@ -94,11 +94,11 @@ the inevitable chant rang in his head.
  </p>
  
   <p>
-  Do not look back.
+  Do not look back. <br>
 
-  Do not look back.
+  Do not look back. <br>
 
-  Do not look back.
+  Do not look back. <br>
  </p>
  
   <p>
@@ -108,11 +108,11 @@ the inevitable chant rang in his head.
  
 
  <p>
-  Something is there,
+  Something is there, <br>
 
-  something is there, 
+  something is there,  <br> 
 
-  something is there.
+  something is there. <br>
  </p>
  
  <em> {{page.date-written}} </em>
