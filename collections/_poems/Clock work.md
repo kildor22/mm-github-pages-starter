@@ -47,6 +47,6 @@ Yes, I am made of mechanical parts; of a clock work mind that solely defines clo
 </p>
 
 <p>
-I know how to love and see my own value-- I don't think any other toy can do that.
+I know how to love and see what I'm worth-- I don't think any other toy can do that.
 </p>
 <em> {{page.date-written}} </em>
