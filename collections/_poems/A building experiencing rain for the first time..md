@@ -16,7 +16,7 @@ In the end, it thought: none of it really mattered.
 
 <p>
 For too long has its doors been unopened, its windows stained and gray with every room reeking the stench of moss, unkempt beds and food which have decayed--
-the wind blows through its corridors where the journey halts in every room and corner bend. Its foundations shake and groan for the lamplights at night that never stayed.
+the wind blows through its corridors where the journey halts in every room and corner bend. Its foundations shook and groaned for the lamplights at night that never stayed.
 </p>
 
 <p>

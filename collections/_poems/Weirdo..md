@@ -46,7 +46,7 @@ date-written: 2018
 </p> 
 
 <p>
-  Love is weird because out of its will, I've donned a costume that I thought would save her. It wasn't just my imagination anymore-- it was the imagination of a costume from the imagination of a love for the imagination of a love I thought I could protect. I'd don a costume to tell her everything was fine even if they weren't. I'd pen stories about her because my imagination and the thought of her are indistinguishable.
+  Love is weird because out of its will, I've donned a costume that I thought would save her. It wasn't just my imagination anymore-- it was the imagination of a costume from the imagination of a love for the imagination of a love I thought I could protect. I'd don a costume to tell her everything was fine even if they weren't. I'd pen stories about her because my imagination and the thought of her were indistinguishable.
 </p> 
 
 <p>
@@ -78,7 +78,7 @@ And at times, I felt that I was imagining love.
 </p> 
 
 <p>
-  And then hits me, that her weirdness wasn't the appeal. It was by being with her that gave sense to everything.
+  And then it hits me, that her weirdness wasn't the appeal. It was by being with her that gave sense to everything.
 </p> 
  
 

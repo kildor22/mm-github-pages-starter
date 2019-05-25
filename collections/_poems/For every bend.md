@@ -36,7 +36,7 @@ Because to fall once more, would mean to stand back up.
 </p>
 
 <p>
-  So do not wonder, if ever you were to see me standing in my mother's backyard, hands akimbo as the wind gustles the cape around my neck.  Take no pity if I fall. For you would find me quickly scrambling to my feet afterwards, challenging the wind once more. 
+  So do not wonder, if ever you were to see me standing in my mother's backyard, arms akimbo as the wind gustles the cape around my neck.  Take no pity if I fall. For you would find me quickly scrambling to my feet afterwards, challenging the wind once more. 
 </p>
 
 <p>

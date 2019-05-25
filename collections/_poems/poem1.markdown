@@ -17,7 +17,7 @@ it was dense enough to nearly swallow my feet.
 </p>
 
 <p>
-She beckoned me to approach her, waving a finger to fold her silver waters like a curtain. 
+She beckoned to approach her, waving a finger to fold her silver waters like a curtain. 
 </p>
 
 <p>
