@@ -12,7 +12,7 @@ date-written: 30.10.18
   
   
   <p>
-  Dawn was seeping in, waiting patiently to puncture the darkness that blanketed the night sky. It knew it would still have to wait —though not for long— for the break of day was merely hours away. 
+  Dawn was seeping in, waiting patiently to puncture the darkness that blanketed the night sky. It knew it would still have to wait, though not for long, for the break of day was merely hours away. 
  </p>
  
   <p>
@@ -24,7 +24,7 @@ date-written: 30.10.18
  </p>
  
   <p>
-  The aluminum doorknob fit snugly at the nook of his palm, as it had always been— familiar and cold. Turning it would lead to a narrow hallway, also cold and familiar, though too cramped for a boy of his width to pass through without toppling the stacks of old shoe boxes and forgotten novelties that lined the wall to his right. To his left, an old wooden railing met the edges of an old wooden staircase that descended to the living room. Before skewing his body to shuffle through the pathway, the boy muttered,
+  The aluminum doorknob fit snugly in the nook of his palm as it had always been— familiar and cold. Turning it would lead to a narrow hallway, also cold and familiar, though too cramped for a boy of his width to pass through without toppling the stacks of old shoe boxes and forgotten novelties that lined the wall to his right. To his left, an old wooden railing met the edges of an old wooden staircase that descended to the living room. Before skewing his body to shuffle through the pathway, the boy muttered,
  </p>
 
  <p>
@@ -40,11 +40,11 @@ Nothing is there, <br>
  </p>
 
  <p>
-  Steps creaked under his weight as he placed one foot after the other. Left, right. Left, right. Left, right— precariously descending into the enveloping blackness of the living room.
+  The wooden teps creaked under his weight as he placed one foot after the other. Left, right, left, right, left, right; precariously descending into the enveloping blackness of the living room.
  </p>
  
   <p>
- But no matter how hard he tried and no matter how light he stepped, they would groan under his weight, almost sounding delighted at his presence. They let their chatter be known as they whispered softly under his feet, though their intentions were unclear. Before making the last step, he whispered to himself,
+ But no matter how hard he tried and no matter how light he stepped, they would groan at the touch of the sole of his feet, almost sounding delighted at his presence. The wooden steps were alive, whispering softly under his feet, though their intentions were unclear. Before making the last step, he whispered to himself,
  </p>
 
  <p>
