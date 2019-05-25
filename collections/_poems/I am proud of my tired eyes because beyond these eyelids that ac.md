@@ -11,7 +11,7 @@ date-written: 2019
 
 
 <p>
-I am proud of my tired eyes because beyond these eyelids that act as blinds to the world, are two glimmering beads of pewter that continue to see no matter how fatigued they are. The longer they keep themselves wide open, the more difficult it is too stay awake as the burden forces them shut.
+I am proud of my tired eyes. Beyond these eyelids that act as blinds to the world are two glimmering beads of pewter that continue to see no matter how fatigued they are. The longer they keep themselves wide open, the more difficult it is too stay awake as the burden forces them shut.
 </p>
 
 <p>

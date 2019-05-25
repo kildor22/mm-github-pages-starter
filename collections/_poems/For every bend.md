@@ -3,7 +3,7 @@ layout: single
 title:  "For Every Bend" 
 collection: jekyll poems
 share: true
-excerpt:
+excerpt: 
 date-written: 2019
 ---
  
@@ -41,6 +41,6 @@ Because to fall once more, would mean to stand back up.
 
 <p>
   All the while my mother smiles from behind washed sheets, and my grandfather cheering me on from his garden.
-  </p>
+ </p>
   
  <em> {{page.date-written}} </em>

@@ -14,7 +14,7 @@ date-written: 2019
  </p>
  
  <p>
-  Anyone can write-- a man who is down on his luck; who just happens upon an abandoned journal jettisoned to the ocean shore, can sit on the beach and uncap his blue-inked pen to start scribbling on washed-out pages. There is no difference between me and him, but the circumstance at which we wield our pen or the reason for even possessing it. Leagues of writers have come before him, doing the same thing he does, though rarely have there been writers true enough to themselves and their readers for their words to hold impalpable power.
+  Anyone can write-- a man who is down on his luck; who just happens upon an abandoned journal jettisoned to the ocean shore, can sit on the beach and uncap his blue-inked pen to start scribbling on washed-out pages. There is no difference between me and him, but the circumstance at which we wield our pen. Leagues of writers have come before him, doing the same thing he does, though rarely have there been writers true enough to themselves and their readers for their words to hold impalpable power.
 </p>
 
 <p>
@@ -34,7 +34,7 @@ date-written: 2019
 </p>
 
 <p>
-  It is vulnerable not when your readers are brought to tears, but when you, the writer, weep as you pen the sentences. Ever word that embraces the page is a reflection of you at your weakest.
+  It is vulnerable not when your readers are brought to tears, but when you, the writer, weep as you pen the sentences. Every word that embraces the page is a reflection of you at your weakest.
 </p>
 
 <p>
