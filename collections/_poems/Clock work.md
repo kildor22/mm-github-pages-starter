@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Toy Soldier" 
+title:  "Clockwork" 
 collection: jekyll poems
 share: true
 date-written: 19-4-2018
@@ -11,7 +11,7 @@ date-written: 19-4-2018
 
 
 <p>
-I am a toy, made of clock work parts. The toymaker says I'll expire soon though I find it difficult to believe- I have only been active for approximately 332 days-- 126 of which was spent in a lonely cardboard box that barely had any room for my clock work arms. This, I know, because I kept count of the number of days through the incessant ticking in my head. Two ticks per second, a hundred twenty a minute; 162,800 for a full sun cycle. I'm one of those action figures that are not powered by batteries. Twist the knob on my back and watch me move my legs to the sound of a drum beat. A clockwork drummer boy being sold all-year round; no wonder I didn't sell until day 253! No ons buys boys like me under the summer heat. I'm afraid I would melt and my paint would corrode.
+I am a toy, made of clock work parts. The toymaker says I'll expire soon though I find it difficult to believe. I have only been active for approximately 332 days-- 126 of which was spent in a lonely cardboard box that barely had any room for my clock work arms. This, I know, because I kept count of the number of days through the incessant ticking in my head. Two ticks per second, a hundred twenty a minute; 162,800 for a full sun cycle. I'm one of those action figures that are not powered by batteries. Twist the knob on my back and watch me move my legs to the sound of a drum beat. A clockwork drummer boy being sold all-year round; no wonder I didn't sell until day 253! No ons buys boys like me under the summer heat. I'm afraid I would melt and my paint would corrode.
 </p>
 
 <p>
