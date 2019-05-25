@@ -54,7 +54,7 @@ So, I ask myself, who is to blame for forsaking them? Who is to blame for chokin
 Only then, when I closed my eyes and listened did I understand.
 </p>
 
-<em> {{page.date-written </em>
+<em> {{page.date-written}} </em>
 
 
 
