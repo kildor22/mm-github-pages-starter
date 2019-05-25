@@ -14,41 +14,34 @@ Last night, I dreamt that I spoke to the Writer's Muse -- the fabled minstrel of
 she stood in all her beauty, behind the cascading sheets of her waterfall that gleamed silver in the
 moonlight. For a moment, I stood still in the middle of the meadow, awe-struck by the foliage that encorached me;
 it was dense enough to nearly swallow my feet.
- 
-&nbsp;
-<br>
+</p>
 
+<p>
 She beckoned me to approach her, waving a finger to fold her silver waters like a curtain. 
+</p>
 
-&nbsp;
-<br>
-
+<p>
 "Come," she said, "perch your lips upon mine and I will breathe life into your ceaseless scrawls".
+</p>
 
-&nbsp;
-<br>
-
+<p>
 Who could this enchantress be? To twist my mind and cast a spell upon me... surely this must be some trickery!
+</p>
 
-&nbsp;
-<br>
-
+<p>
 While I stood, pondering, my legs began to quiver. As if compelled to follow her whim, my feet shuffled through the grass,
 trailing clumps of dirt and dandelion seeds until I felt the coolness of springwater beneath my sole.
+</p>
 
-&nbsp;
-<br>
-
+<p>
 She chuckled and said, "you're mine now."
+</p>
 
-&nbsp;
-<br>
-
+<p>
 So I slapped the wench.
+</p>
 
-&nbsp;
-<br>
-
+<p>
 No such muse exists.
 </p>
 
