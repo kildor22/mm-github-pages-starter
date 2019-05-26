@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "For Every Bend" 
+excerpt:
 collection: jekyll poems
 share: true
 date-written: 2019
@@ -9,9 +10,8 @@ date-written: 2019
  &nbsp;
  &nbsp;
  
- 
- <p>
-  I was a boy, once frail. Once, I stood in my mother's backyard, where the wind blew on hung blankets and white sheets, carrying their rose and lavender scent. And there, I stood, behind my mother as she clipped our clothes to dry, listening to the susurrous rustling in the grass. Before, I thought I could brave it all; standing strong as my cape flapped wildly behind me. But as soon as the wind came and gone, I was on my knees, finding myself bent like the thin trees that shrivel in a storm. 
+<p>
+I was a boy, once frail. Once, I stood in my mother's backyard, where the wind blew on hung blankets and white sheets, carrying their rose and lavender scent. And there, I stood, behind my mother as she clipped our clothes to dry, listening to the susurrous rustling in the grass. Before, I thought I could brave it all; standing strong as my cape flapped wildly behind me. But as soon as the wind came and gone, I was on my knees, finding myself bent like the thin trees that shrivel in a storm. 
 </p>
 
 <p>
