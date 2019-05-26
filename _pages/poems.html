@@ -23,10 +23,10 @@ collection: poems
 
 {% if prevflag == 1 %}
   {% assign prevItemIndex = currentItemIndex | minus: 1 %}
-  {% assign prevPost = site.your_collection[prevItemIndex] %}
+  {% assign prevPost = site.collections[prevItemIndex] %}
 {% endif %}
 
 {% if nextflag == 1 %}
   {% assign nextItemIndex = currentItemIndex | plus: 1 %}
-  {% assign nextPost = site.your_collection[nextItemIndex] %}
+  {% assign nextPost = site.collections[nextItemIndex] %}
 {% endif %}
