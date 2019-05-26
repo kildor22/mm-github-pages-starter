@@ -150,7 +150,7 @@ not every line that would comprise her poetic life.
 </p>
  
  <p>
-but I write,
+But I write,
 </p>
 
 <p>
