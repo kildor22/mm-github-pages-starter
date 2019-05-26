@@ -62,7 +62,7 @@ I miss you, I whisper into the grill. Talk to me, please.
 </p>
 
 <p>
-//"Talk to me, please." Tears start to accompany the melody with their pitter-patter beat, playing against the glass shield of his helmet.//
+"Talk to me, please." Tears start to accompany the melody with their pitter-patter beat, playing against the glass shield of his helmet.
 </p>
 
 
