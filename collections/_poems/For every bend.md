@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "For Every Bend" 
+excerpt:
 collection: jekyll poems
 share: true
 date-written: 2019
