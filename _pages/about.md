@@ -4,6 +4,35 @@ title: "Okay, so what the heck is this?"
 author_profile: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+&nbsp;
+&nbsp;
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<p>
+Hey, there, Stranger! You're probably wondering where you are. No worries, just kick back, relax,
+and I'll explain in a jiffy. 
+</p>
+<p>
+And no, you're not being held hostage despite being bound and gagged. You can leave by clicking the "X"
+button on the upper-right or use the home button of whatever device you're holding right now.
+</p>
+
+<p>
+This here vault is a collection of some of the (more presentable) poems and stories I've written thus far.
+Some are good and some are okay, though they all share one thing in common: they're embarrassing to
+show to the public eye. 
+</p>
+
+<p>
+However crude they may be, here they are for your viewing pleasure (or displeasure, whichever). 
+</p>
+
+<p>
+Enjoy your stay and welcome to The Vault.
+</p>
+
+<em> jarod anjelo lustre </em>
+
+&nbsp;
+&nbsp;
+&nbsp;
+Oh, shit, I almost forgot to untie you.
