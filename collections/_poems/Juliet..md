@@ -115,4 +115,4 @@ but I do.
 And you, my love, deserve to be heard.
 </p>
 
-June 10, 2018 -- 2:37 a.m.
+<em> {{page.date-written}} </em>
