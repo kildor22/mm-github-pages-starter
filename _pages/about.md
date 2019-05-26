@@ -30,9 +30,12 @@ However crude they may be, here they are for your viewing pleasure (or displeasu
 Enjoy your stay and welcome to The Vault.
 </p>
 
+&nbsp;
 <em> jarod anjelo lustre </em>
 
 &nbsp;
 &nbsp;
 &nbsp;
-Oh, shit, I almost forgot to untie you.
+&nbsp;
+
+<p> Oh, shit, I almost forgot to untie you. <p>
