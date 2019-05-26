@@ -203,7 +203,7 @@ I snap a glance at Porter. He whirrs back.
 
 <p>
 {% highlight ruby %}One day, your rocket just tore the sky open, like a metal present wrapped in
- flames, being hurled from above. {% endhighlight %}
+flames, being hurled from above. {% endhighlight %}
 </p>
 
 <p>
