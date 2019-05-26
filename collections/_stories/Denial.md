@@ -4,13 +4,14 @@ collection: jekyll stories
 layout: single
 share: true
 date-written: 30.10.18
+excerpt:
 ---
 
 &nbsp;
 &nbsp;
   
   
-  
+
   <p>
   Dawn was seeping in, waiting patiently to puncture the darkness that blanketed the night sky. It knew it would still have to wait, though not for long, for the break of day was merely hours away. 
  </p>
@@ -40,7 +41,7 @@ Nothing is there, <br>
  </p>
 
  <p>
-  The wooden teps creaked under his weight as he placed one foot after the other. Left, right, left, right, left, right; precariously descending into the enveloping blackness of the living room.
+  The wooden steps creaked under his weight as he placed one foot after the other. Left, right, left, right, left, right; precariously descending into the enveloping blackness of the living room.
  </p>
  
   <p>
