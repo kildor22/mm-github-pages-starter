@@ -158,7 +158,7 @@ Suddenly, I hear the whirring of the radio once more. I nearly drop it to sand i
 </p>
 
 <p>
-<em>Free me</em>
+{% highlight ruby %}Free me.{% endhighlight %}
 </p>
 
 <p>
@@ -166,7 +166,7 @@ Suddenly, I hear the whirring of the radio once more. I nearly drop it to sand i
 </p>
 
 <p>
-<em>Please</em>
+{% highlight ruby %}Please.{% endhighlight %}
 </p>
 
 <p>
@@ -174,11 +174,11 @@ Static.
 </p>
 
 <p>
-<em>We were not meant to be here.</em> The static in the radio spoke.
+{% highlight ruby %}We were not meant to be here.{% endhighlight %} The static in the radio spoke.
 </p>
 
 <p>
- <em>Do you not remember me?</em>
+{% highlight ruby %}Do you not remember me?{% endhighlight %}
 </p>
 
 <p>
@@ -190,7 +190,7 @@ I peer into the grills once more. Just a hodgepodge of wires slapped onto a gree
 </p>
 
 <p>
-<em>We were together, once,</em>she continued, <em>before everything turned... gray. Dreary. Barren</em>
+{% highlight ruby %}We were together, once,{% endhighlight %}she continued, {% highlight ruby %}before everything turned... gray. Dreary. Barren{% endhighlight %}
 </p>
 
 <p>
@@ -198,54 +198,54 @@ I snap a glance at Porter. He whirrs back.
 </p>
 
 <p>
-<em>We were not meant to be here. //You// were not meant to be here.</em>
+{% highlight ruby %}We were not meant to be here. //You// were not meant to be here.{% endhighlight %}
 </p>
 
 <p>
-<em>One day, your rocket just tore the sky open, like a metal present wrapped in flames, being hurled from above. </em>
+{% highlight ruby %}One day, your rocket just tore the sky open, like a metal present wrapped in flames, being hurled from above. {% endhighlight %}
 </p>
 
 <p>
-<em>You crashed beside this very space station. I freed you from the vices of your ship, and opened the doors of my home to you. </em>
+{% highlight ruby %}You crashed beside this very space station. I freed you from the vices of your ship, and opened the doors of my home to you. {% endhighlight %}
 </p>
 
-<p>
-<em>But you forget. Quickly.</em>
-</p>
+{% highlight ruby %}
+But you forget. Quickly.
 
-<p>
-<em>Moons pass the space station like comets hurtling for the stars, and not a day goes by without you reliving the first day of your arrival.</em>
-</p>
 
-<p>
-<em>You forget. Quickly</em>
-</p>
+
+Moons pass the space station like comets hurtling for the stars, and not a day goes by without you reliving the first day of your arrival.
+
+
+
+You forget. Quickly.
+{% endhighlight %}
 
 <p>
 I stare intently at the device in my hands, eaten by rust, smoldered by dust and lost in time.
 </p>
 
 
-<p>
-<em>Now, you must remember. Either return from whence you came, or make yourself open to my abode as it has welcomed you, and soaked you in its orange dunes.</em>
-</p>
 
-<p>
-<em>Wherever this radio is, it will always be where your heart should remain. Never forget. </em>
-</p>
+{% highlight ruby %}Now, you must remember. Either return from whence you came, or make yourself open to my abode as it has welcomed you, and soaked you in its orange dunes.
 
 
-<p>
-<em>And only then shall I be set free.</em>
-</p>
 
-<p>
-<em>Never forget.</em>
-</p>
+Wherever this radio is, it will always be where your heart should remain. Never forget. 
 
-<p>
-<em>Please.</em>
-</p>
+
+
+
+And only then shall I be set free.
+
+
+
+Never forget.
+
+
+
+Please.
+{% endhighlight %}
 _
 <p>
 The radio sputters the static, and swallows it once more.
