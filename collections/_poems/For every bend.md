@@ -5,7 +5,6 @@ collection: jekyll poems
 share: true
 date-written: 2019
 ---
- 
  &nbsp;
  &nbsp;
  
