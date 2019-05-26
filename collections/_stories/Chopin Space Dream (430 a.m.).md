@@ -190,7 +190,7 @@ I peer into the grills once more. Just a hodgepodge of wires slapped onto a gree
 </p>
 
 <p>
-{% highlight ruby %}We were together, once,{% endhighlight %}she continued, {% highlight ruby %}before everything turned... gray. Dreary. Barren.{% endhighlight %}
+{% highlight ruby %}We were together once,{% endhighlight %}she continued, {% highlight ruby %}before everything turned... gray. Dreary. Barren.{% endhighlight %}
 </p>
 
 <p>
