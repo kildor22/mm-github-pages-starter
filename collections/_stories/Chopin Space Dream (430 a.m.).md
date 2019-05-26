@@ -231,8 +231,8 @@ I stare intently at the device in my hands, eaten by rust, smoldered by dust and
 
 
 {% highlight ruby %}Now, you must remember. Either return
- from whence you came, or make yourself open to my abode as it has welcomed you, 
- and soaked you in its orange dunes.
+from whence you came, or make yourself open to my abode as it has welcomed you, 
+and soaked you in its orange dunes.
 
 
 
