@@ -4,7 +4,7 @@ collection: jekyll stories
 layout: single
 share: true
 date-written: 2018
-by-line: Iris Cardenas and Jarod Lustre
+by-line: by Iris Cardenas and Jarod Lustre
 ---
 {{page.by-line}} 
 
