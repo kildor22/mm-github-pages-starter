@@ -146,7 +146,7 @@ His antennae bounced, left to right, left to right, like a metronome on overdriv
 
 
 <p>
-I stare, utterly confused, at the device in my hands. It retains its silence.
+I stare, utterly confused at the device in my hands. It retains its silence.
 </p>
 
 <p>
