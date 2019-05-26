@@ -13,7 +13,7 @@ by-line: by Iris Cardenas and Jarod Lustre
 
 
 <p>
-It gets lonely down here, really. You remember when you were a kid and everyone wanted to ride a rocketship? Well, I was one of those kids. I doodled 'em in the margins of my notebooks, made 'em out of sticks in the backyard, turned 'em into science fair projects. I wanted to explore the _beyond_ —the universe that's out of our reach. 
+It gets lonely down here, really. You remember when you were a kid and everyone wanted to ride a rocketship? Well, I was one of those kids. I doodled 'em in the margins of my notebooks, made 'em out of sticks in the backyard, turned 'em into science fair projects. I wanted to explore the <em>beyond</em>—the universe that's out of our reach. 
 </p>
 
 <p>
@@ -21,7 +21,7 @@ But it gets lonely there, I find out. Sitting in this space station erected on w
 </p>
 
 <p>
-This ditch is probably the *last* place I would want to be stuck in the vast expanse of this plane-- literally _anywhere_ except Planet Wanarayes (Wanareyes, why the hell do they even call it that? Says there on the sign).
+This ditch is probably the last place I would want to be stuck in the vast expanse of this plane-- literally  <em>anywhere</em> except Planet Wanarayes (Wanareyes, why the hell do they even call it that? Says there on the sign).
 </p>
 
 <p>
@@ -29,7 +29,7 @@ No other soul has left marks on the dunes of this space rock. In fact, if you co
 </p>
 
 <p>
-Nothing but this rusted cannister of _Mars Power Oil_, an old planet rover named Porter (the old bucket o' bolts), and this darned radio that won't work no matter ho-
+Nothing but this rusted cannister of <em>Mars Power Oil</em>, an old planet rover named Porter (the old bucket o' bolts), and this darned radio that won't work no matter ho-
 </p>
 
 <p>
@@ -75,7 +75,7 @@ As suddenly as it started, the music began to fade until there was only static.
 </p>
 
 <p>
-_What did they tell me before I got on that spacecraft?_
+<em>What did they tell me before I got on that spacecraft?</em>
 </p>
 
 <p>
@@ -83,7 +83,7 @@ I can't. My memory is failing me. How long have I been here? What day is it? In 
 </p>
 
 <p>
-_Well? What did I tell you? This is your doing. You should have stayed._
+<em>Well? What did I tell you? This is your doing. You should have stayed.</em>
 </p>
 
 <p>
@@ -91,13 +91,13 @@ I should have stayed.
 </p>
 
 <p>
-_This is the real world._
+<em>This is the real world.</em>
 </p>
 
 
 
 <p>
-"W-what?"
+"W-what?" I said, stammering.
 </p>
 
 <p>
@@ -109,7 +109,7 @@ for a second.
 </p>
 
 <p>
-_I told you, this is the real world._
+<em>I told you, this is the real world</em>
 </p>
 
 <p>
@@ -121,7 +121,7 @@ Porter zoomed beside me, snuggling in what little space was left open by my arm.
 </p>
 
 <p>
-_You've never been here before. You were brought here._
+<em>You've never been here before. You were brought here.</em>
 </p>
 
 <p>
@@ -133,7 +133,7 @@ His antennae bounced, left to right, left to right, like a metronome on overdriv
 </p>
 
 <p>
-_By her._
+<em>By her</em>
 </p>
 
 <p>
@@ -141,7 +141,7 @@ _By her._
 </p>
 
 <p>
-_The Pianist in the radio._
+<em>The Pianist in the radio</em>
 </p>
 
 
@@ -158,7 +158,7 @@ Suddenly, I hear the whirring of the radio once more. I nearly drop it to sand i
 </p>
 
 <p>
-_Free me._
+<em>Free me</em>
 </p>
 
 <p>
@@ -166,7 +166,7 @@ _Free me._
 </p>
 
 <p>
-_Please._
+<em>Please</em>
 </p>
 
 <p>
@@ -174,11 +174,11 @@ Static.
 </p>
 
 <p>
-_We were not meant to be here._ The static in the radio spoke.
+<em>We were not meant to be here.</em> The static in the radio spoke.
 </p>
 
 <p>
- _Do you not remember me?_
+ <em>Do you not remember me?/em>
 </p>
 
 <p>
@@ -190,7 +190,7 @@ I peer into the grills once more. Just a hodgepodge of wires slapped onto a gree
 </p>
 
 <p>
-_We were together, once,_ she continued, _before everything turned... gray. Dreary. Barren._
+<em>We were together, once,</em>she continued, <em>before everything turned... gray. Dreary. Barren</em>
 </p>
 
 <p>
@@ -198,27 +198,27 @@ I snap a glance at Porter. He whirrs back.
 </p>
 
 <p>
-_We were not meant to be here. //You// were not meant to be here._
+<em>We were not meant to be here. //You// were not meant to be here.</em>
 </p>
 
 <p>
-_One day, your rocket just tore the sky open, like a metal present wrapped in flames, being hurled from above. 
+<em>One day, your rocket just tore the sky open, like a metal present wrapped in flames, being hurled from above. </em>
 </p>
 
 <p>
-You crashed beside this very space station. I freed you from the vices of your ship, and opened the doors of my home to you.
+<em>You crashed beside this very space station. I freed you from the vices of your ship, and opened the doors of my home to you. </em>
 </p>
 
 <p>
-But you forget. Quickly.
+<em>But you forget. Quickly.</em>
 </p>
 
 <p>
-Moons pass the space station like comets hurtling for the stars, and not a day goes by without you reliving the first day of your arrival.
+<em>Moons pass the space station like comets hurtling for the stars, and not a day goes by without you reliving the first day of your arrival.</em>
 </p>
 
 <p>
-You forget. Quickly._
+<em>You forget. Quickly</em>
 </p>
 
 <p>
@@ -227,24 +227,24 @@ I stare intently at the device in my hands, eaten by rust, smoldered by dust and
 
 
 <p>
-_Now, you must remember. Either return from whence you came, or make yourself open to my abode as it has welcomed you, and soaked you in its orange dunes.
+<em>Now, you must remember. Either return from whence you came, or make yourself open to my abode as it has welcomed you, and soaked you in its orange dunes.</em>
 </p>
 
 <p>
-Wherever this radio is, it will always be where your heart should remain. Never forget. 
+<em>Wherever this radio is, it will always be where your heart should remain. Never forget. </em>
 </p>
 
 
 <p>
-And only then shall I be set free.
+<em>And only then shall I be set free.</em>
 </p>
 
 <p>
-Never forget.
+<em>Never forget.</em>
 </p>
 
 <p>
-Please.
+<em>Please.</em>
 </p>
 _
 <p>
@@ -252,7 +252,7 @@ The radio sputters the static, and swallows it once more.
 </p>
 
 <p>
-_Voice recording over. Repeat?_
+{% highlight ruby %}Voice recording over. Repeat?{% endhighlight %}
 </p>
 
 <p>
