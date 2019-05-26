@@ -202,11 +202,13 @@ I snap a glance at Porter. He whirrs back.
 </p>
 
 <p>
-{% highlight ruby %}One day, your rocket just tore the sky open, like a metal present wrapped in flames, being hurled from above. {% endhighlight %}
+{% highlight ruby %}One day, your rocket just tore the sky open, like a metal present wrapped in
+ flames, being hurled from above. {% endhighlight %}
 </p>
 
 <p>
-{% highlight ruby %}You crashed beside this very space station. I freed you from the vices of your ship, and opened the doors of my home to you. {% endhighlight %}
+{% highlight ruby %}You crashed beside this very space station. I freed you from the 
+vices of your ship, and opened the doors of my home to you. {% endhighlight %}
 </p>
 
 {% highlight ruby %}
@@ -214,7 +216,8 @@ But you forget. Quickly.
 
 
 
-Moons pass the space station like comets hurtling for the stars, and not a day goes by without you reliving the first day of your arrival.
+Moons pass the space station like comets hurtling for the stars, and 
+not a day goes by without you reliving the first day of your arrival.
 
 
 
