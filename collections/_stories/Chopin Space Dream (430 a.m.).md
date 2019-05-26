@@ -7,11 +7,11 @@ date-written: 2018
 by-line: Iris Cardenas and Jarod Lustre
 ---
 
+
+&nbsp;
+&nbsp;
+
 {{page.by-line}}
-&nbsp;
-&nbsp;
-
-
 <p>
 It gets lonely down here, really. You remember when you were a kid and everyone wanted to ride a rocketship? Well, I was one of those kids. I doodled 'em in the margins of my notebooks, made 'em out of sticks in the backyard, turned 'em into science fair projects. I wanted to explore the _beyond_ —the universe that's out of our reach. 
 </p>
