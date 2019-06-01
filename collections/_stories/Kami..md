@@ -18,7 +18,7 @@ He sits on a ledge, peering over the depths below. A flock of birds pass him by,
 </p>
 
 <p>
-No one knows who this man is. All that is known of him is that one day, he appeared on the roof of the tallest building in the city, and decided to watch over the world in his silk red tie and navy blue suit. They called him 'Kami' -- God. On his pallid face are watchful eyes that open up like voids hungry for detail. Kami is the overseer of life and death, of merriment and discord, who sits on a precipice where his own existence is trifling. With his back hunched and shoulders slacked, he traces his pupils on the city below, like a pencil tip lining the page of a blinking coloring book, watching people fritter their lives away. 
+No one knows who this man is. All that is known of him is that one day, he appeared on the roof of the tallest building in the city, and decided to watch over the world in his silk red tie and navy blue suit. They call him 'Kami' -- God. On his pallid face are watchful eyes that open up like voids hungry for detail. Kami is the overseer of life and death, of merriment and discord, who sits on a precipice where his own existence is trifling. With his back hunched and shoulders slacked, he traces his pupils on the city below, like a pencil tip lining the page of a blinking coloring book, watching people fritter their lives away. 
 </p>
 
 <p>
@@ -30,7 +30,7 @@ And the people from below pass him  daily without a moment's notice, save for a 
 </p>
 
 <p>
-They ironically call him Kami -- a nickname that mocks a man who is presumed to think himself higher than the rest of society. He must be suicidal, the passers-by guffaw and walk away. Little do they know that he has only twenty-four hours left to live, and he chose to expend the remnants of his time watching the world. 
+They ironically call him Kami -- a nickname that mocks a man who presumably thinks himself higher than the rest of society. He must be suicidal, the passers-by guffaw and walk away. Little do they know that he has only twenty-four hours left to live, and he chose to expend the remnants of his time watching the world. 
 </p>
 
 <p>
