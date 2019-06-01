@@ -69,9 +69,6 @@ Among the swirl of colors is the image he sought to grasp. What is it that compe
 Ah, so it is her -- his biggest regret.
 </p>
 
-<p>
- Not her, no, but the future he threw away. The future that never will be.
-</p>
 
 <p>
 And as he falls, 250 meters down, he closes his eyes and succumbs to the jaws of the world. 
