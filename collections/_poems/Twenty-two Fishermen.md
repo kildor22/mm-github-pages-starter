@@ -99,7 +99,7 @@ by people who were not their own. <br>
 
 <p>
 And when twenty-two fishermen went out to see, <br>
-the faces of their country men,  <br>
+the faces of their countrymen,  <br>
 and the man who pulled the strings, <br>
 they felt that they were on shores -- <br>
 that were not their own. <br>
