@@ -18,11 +18,11 @@ The faint scent of alcohol is reminiscent of his presence. He no longer lives, b
 </p>
 
 <p>
-Your house is filled with people, whom sit on cherished chairs and sleep on groomed beds--whom dine at the table together, feast on the same table with equal portions of food, chomping down with grins as big as yours.
+Your house is filled with people who sit on cherished chairs and sleep on groomed beds--who dine at the table together, feast on the same table with equal portions of food, chomping down with grins as big as yours.
 </p>
 
 <p>
-My home is filled with people, that feels no fuller than a barren one. My people sit on rusted chairs, chewed by the weight of the burdens they carry, and sleep on cobblestone beds that carry the same. We dine at the table -- at most four, at a time -- with rations for every hungry mouth, lest one gets more than the other and the hounds are set free. On my table, we do not grin. On my table, we chastise and mock. We play with feelings and feed on words that seem to hurt more bones and break more sticks, and relieve our parched selves with the tears of one another. Ravenously, we dine on emotions. On your table, you feel full. Content. On mine, we remain hungry, no matter how fine the food is.
+My home is filled with people yet it feels no fuller than a barren one. My people sit on rusted chairs, chewed by the weight of the burdens they carry, and sleep on cobblestone beds that carry the same. We dine at the table -- at most four, at a time -- with rations for every hungry mouth, lest one gets more than the other and the hounds are set free. On my table, we do not grin. On my table, we chastise and mock. We play with feelings and feed on words that seem to hurt more bones and break more sticks, and relieve our parched selves with the tears of one another. Ravenously, we dine on emotions. On your table, you feel full. Content. On mine, we remain hungry, no matter how fine the food is.
 </p>
 
 <p>
